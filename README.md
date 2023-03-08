@@ -8,23 +8,20 @@ Plant vacuoles are the most important organelles for plant growth, development, 
 
 Before running, please make sure the following packages are installed in Python environment:
 
-python==3.7
+python==3.8
 
-pytorch==1.3.0
+numpy==1.24.2
 
-tape_proteins==0.5
+pandas==1.5.3
 
-rich==9.12.4
+joblib==1.2.0
 
-lightgbm==3.1.1
+scikit-learn==1.2.1
 
-numpy==1.20.3
+scipy==1.10.1
 
-pandas==1.3.5
+xgboost==1.7.4
 
-joblib==1.0.1
-
-scikit-learn==1.0.2
 
 3 Running
 
