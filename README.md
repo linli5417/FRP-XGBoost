@@ -27,7 +27,7 @@ xgboost==1.7.4
 
 Changing working dir to FRP-XGBoost-main, and then running the following command:
 
-python FRP-main.py -i test.fasta -o prediction_results.csv
+python main.py -i test.fasta -o prediction_results.csv
 
 -i: input file in fasta format
 
